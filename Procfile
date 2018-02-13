@@ -1,0 +1,1 @@
+web: jekyll exec serve -P $PORT
