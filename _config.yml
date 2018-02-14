@@ -6,10 +6,10 @@
 
 # General App Info
 app:
-  name: Trust - Ethereum Wallet # REQUIRED - Enter your app name
-  ios_id: 1288339409 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: com.wallet.crypto.trustapp
-  apk_link: https://drive.google.com/uc?authuser=0&id=132yVfIYAGBDDbJPO2dFh67ajsq0j5CPr&export=download
+  name: REAL items - Digital Receipts of Authenticity # REQUIRED - Enter your app name
+  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: 
+  apk_link: 
   icon: images/app-icon-512.png
 
 # Permalinks
@@ -17,18 +17,18 @@ permalink: /:title
 
 # Marketing
 marketing_header: # Optional
-marketing_desc: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
+marketing_desc: Trust - Secure wallet for Digital Receipts, Authentic items and AI22 tokens.
 
 # Social Links
 social-links:
-  github: TrustWallet
-  discord: kUXyamd
-  reddit: trustapp
-  medium: trustwallet
-  youtube: channel/UCrYnRK55nYUDd6flEZ2Kf6g/videos
-  twitter: trustwalletapp
-  facebook: trustwalletapp
-  email: support@trustwalletapp.com
+  github: AGENC1
+  discord: 
+  reddit: 
+  medium: 
+  youtube: 
+  twitter: AGENC1
+  facebook: AGENC1
+  email: info@AGENC1.io
 
 
 # Enable/Disable Features & Page Elements
@@ -46,11 +46,11 @@ download_button_background_color: "#0191FF" # Optional
 download_button_text_color: white; # Optional
 
 # Site Info - specific meta
-title: Trust - Ethereum Wallet
-description: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
+title: REAL items - Digital Receipts of Authenticity
+description: REAL items - Secure wallet for Digital Receipts, Authentic Items and AI22 tokens.
 
 # Google Analytics
-google_analytics: UA-107603827-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:  # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
