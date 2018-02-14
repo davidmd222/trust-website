@@ -6,3 +6,8 @@ _site
 .sass-cache
 node_modules
 package.json
+themes/default/index.html.orig
+themes/default/index_BACKUP_62591.html
+themes/default/index_BASE_62591.html
+themes/default/index_LOCAL_62591.html
+themes/default/index_REMOTE_62591.html
